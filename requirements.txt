@@ -1,0 +1,2 @@
+notion==0.0.21
+writeasapi==0.1.9.1
